@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php" : "^7.4",
+        "guzzlehttp/psr7": "^1.8",
+        "guzzlehttp/guzzle": "^7.4"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
